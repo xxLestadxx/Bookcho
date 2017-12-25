@@ -28,8 +28,13 @@ public class GeneralInfo {
 	public String getEdition(){
 		return edition;
 	}
+
 	public int getYear() {
 		return year;
+	}
+
+	public void setTitleName(){
+		this.titleName = titleName;
 	}
 
 }
