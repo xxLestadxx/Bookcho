@@ -37,4 +37,6 @@ public class GeneralInfo {
 		this.titleName = titleName;
 	}
 
+	public void setAuthorName() {this.authorName = authorName;}
+
 }
